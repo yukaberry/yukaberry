@@ -12,6 +12,9 @@
 - ⚡ Fun fact:  I am a travel hack pro — I can usually find cheaper train tickets in Germany than you would expect.
 ![Codewars Badge](https://www.codewars.com/users/yukaberry/badges/large)
 
+ I'm a self-taught developer driven by a passion for learning through building. My journey has been shaped by hands-on projects, online courses, books, and countless hours exploring documentation and tutorials. I believe in learning through doing—whether it's tackling coding challenges, following in-depth tutorials, or diving into technical literature.
+
+While working at a startup with limited resources and no dedicated data team, I was faced with a real-world data analytics challenge. I took the initiative to learn and apply data skills directly in a work setting, which not only helped solve immediate problems but also sparked a deeper interest in Python and data science as a whole. Since then, I've continued to develop my skills through practical projects, moving beyond basic analytics to explore the broader landscape of data-driven development.
 
 ## 🛠️ Languages and Tools
 
@@ -46,40 +49,43 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukaberry&show_icons=true&theme=tokyonight)
 
-## 💼 Projects
+## 🚀 Projects
 
-### [Detect AI Contents](https://github.com/yukaberry/detect_ai_content)
+### [Detect AI Contents](https://github.com/yukaberry/detect_ai_content) 
 > Detects AI-generated images and text through analysis.
+> 2024
 - Tech used: Tech used: HuggingFace,transformers,tensorflow,docker, fastapi, prefect
 - GitHub: [Project Link](https://github.com/yukaberry/detect_ai_content)
 - Demo: [Youtube Link](https://www.youtube.com/watch?v=9o40xnghODU)
 
-### [Create your own diet preference recipe](https://github.com/yukaberry/)
-> AI adjusts the original recipe to fit diets like vegan, gluten-free, or sugar-free — not just by removing ingredients, but by adding tasty alternatives.
+### [AI recipe generator](https://github.com/yukaberry/)
+> AI adjusts the original recipe to fit diets like vegan, gluten-free, or sugar-free — not just by removing ingredients, but **by adding tasty alternatives**.
+> 2025 
 - Tech used: HuggingFace,transformers,tensorflow,docker, fastapi, prefect
 - GitHub: [Project Link](https://github.com/yukaberry/)
 - Demo: [App](https://)
 
 
+
 ## 📘🏫 Education
 
-**Certificate of Data Science and AI**
+**Bootcamp : Data Science and AI**
 Le Wagon – *2024*
 
-**Certificate of Inferential statistics**
+**Online course : Inferential statistics**
 Udacity – *2021*
 
-**Certificate of Machine Learning II**
+**Online course : Machine Learning II**
 Frauenloop – *2021*
 
-**Certificate of Machine Learning I**
+**Study Group : Machine Learning I**
 Frauenloop – *2020*
 
-**Certificate of Analyzing Data with Python**
+**Online course : Analyzing Data with Python**
 IBM – *2020*
 
-**Certificate of Data Science with Python for beginner**
+**Online course :Data Science with Python for beginner**
 Udemy, SIGNATE – *2020*
 
-**Certificate of Python**
+**Online course : Python**
 Progate – *2019*
