@@ -9,6 +9,7 @@
 - 🔭 Currently working on **AI Recipe Generator**
 - 🌱 Currently learning **Kubernetes**
 - 🌱 Currently my level at [Codewars](https://www.codewars.com/users/yukaberry)     
+
 ![Codewars Badge](https://www.codewars.com/users/yukaberry/badges/large)
 
 - ⚡ Fun fact:  I am a travel hack pro — I can usually find cheaper train tickets in Germany than you would expect.
