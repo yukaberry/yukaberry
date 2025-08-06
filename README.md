@@ -9,8 +9,11 @@
 - 🔭 Currently working on **[Project Name]**
 - 🌱 Currently learning **Kubernetes**
 - 🌱 Currently my level at [Codewars](https://www.codewars.com/users/yukaberry)
-- ⚡ Fun fact:  I am a travel hack pro — I can usually find cheaper train tickets in Germany than you would expect.
+
 ![Codewars Badge](https://www.codewars.com/users/yukaberry/badges/large)
+
+- ⚡ Fun fact:  I am a travel hack pro — I can usually find cheaper train tickets in Germany than you would expect.
+
 
  I'm a self-taught developer driven by a passion for learning through building. My journey has been shaped by hands-on projects, online courses, books, and countless hours exploring documentation and tutorials. I believe in learning through doing—whether it's tackling coding challenges, following in-depth tutorials, or diving into technical literature.
 
