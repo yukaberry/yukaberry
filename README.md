@@ -4,9 +4,10 @@
 
 ## 🍓 About Me
 
-- 💻 Self-taught Developer : +3 years Professional Experience
+- 💻 Self-taught Developer : +3 Years Experience
+- ✨ What I will shine : LLMs, NLP, AI, RAG
 - 🏫 Background : Marketing, Study Consulting
-- 🏫 Indutosry : e-commerce, Education, Tourism, Logistics, Biology
+- 🏫 Indutosry : e-commerce, Education, Logistics/transportation, Biology
 - 🔭 Currently working on **AI Recipe Generator**
 - 🌱 Currently learning **Kubernetes**
 - 🌱 Currently my level at [Codewars](https://www.codewars.com/users/yukaberry)
@@ -51,7 +52,7 @@ While working at a startup with limited resources and no dedicated data team, I 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukaberry&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukaberry&show_icons=true&theme=tokyonight)
+# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukaberry&show_icons=true&theme=tokyonight)
 
 ## 🚀 Projects
 
@@ -88,20 +89,21 @@ While working at a startup with limited resources and no dedicated data team, I 
 - キタミ式イラストIT塾 基本情報技術者　(CS Basic)
 - 東京大学のデータサイエンティスト育成講座 ~Pythonで手を動かして学ぶデ―タ分析 (Data Science from Tokyo Univercity)
 
-## Online resrouces (Python)
+## 📌 Online resrouces (Python)
 
 - https://www.geeksforgeeks.org/
 - https://realpython.com/
 
-## YouTube Channels (Statistics and Maths)
+## ⏩ YouTube Channels (Statistics and Maths)
 
 - https://www.youtube.com/@MathAndScience
 - https://www.youtube.com/@statquest
 - https://www.youtube.com/@aiby8596
 - https://www.youtube.com/@yobinori
 
-## Mentors and Communities I got support from
+## 🫶 Mentors and Communities I got support from
 
 - https://codebar.io
 - Meetup groups for Python and Data Science
 - https://www.mentoring-club.com/
+- https://www.frauenloop.org/
