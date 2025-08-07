@@ -72,13 +72,13 @@ While working at a startup with limited resources and no dedicated data team, I 
 
 ## 📘🏫 Courses I have completed
 
--**Bootcamp : Data Science and AI** : Le Wagon – *2024*
--**Online course : Inferential statistics** : Udacity – *2021*
--**Online course : Machine Learning II** : Frauenloop – *2021*
--**Study Group : Machine Learning I** : Frauenloop – *2020*
--**Online course : Analyzing Data with Python** : IBM – *2020*
--**Online course :Data Science with Python for beginner** : Udemy, SIGNATE – *2020*
--**Online course : Python** : Progate – *2019*
+- **Bootcamp : Data Science and AI** : Le Wagon – *2024*
+- **Online course : Inferential statistics** : Udacity – *2021*
+- **Online course : Machine Learning II** : Frauenloop – *2021*
+- **Study Group : Machine Learning I** : Frauenloop – *2020*
+- **Online course : Analyzing Data with Python** : IBM – *2020*
+- **Online course :Data Science with Python for beginner** : Udemy, SIGNATE – *2020*
+- **Online course : Python** : Progate – *2019*
 
 ## 📚 Books I have larned from
 
