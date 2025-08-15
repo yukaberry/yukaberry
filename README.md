@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Kubernetes**
 - 🌱 Currently my level at [Codewars](https://www.codewars.com/users/yukaberry)
 
-![Codewars](https://github.r2v.ch/codewars?user=yukaberry) # ![Codewars Badge](https://www.codewars.com/users/yukaberry/badges/large)
+![Codewars](https://github.r2v.ch/codewars?user=yukaberry)
 
 
 - ⚡ Fun fact:  I am a travel hack pro — I can usually find cheaper train tickets in Germany than you would expect.
