@@ -1,5 +1,4 @@
-# Hi 👋, I am Yuka Kudo 🦘🐨
-
+# Hi 👋, I am Yuka Kudo
 I am a self-taught developer driven by a passion for learning through building. My journey has been shaped by hands-on projects, online courses, books, and countless hours exploring documentation and tutorials. I believe in learning through doing—whether it is tackling coding challenges, following in-depth tutorials, or diving into technical literature.
 
 While working at a startup with limited resources and no dedicated data team, I was faced with a real-world data analytics challenge. I took the initiative to learn and apply data skills directly in a work setting, which not only helped solve immediate problems but also sparked a deeper interest in Python and data science as a whole. Since then, I have continued to develop my skills through practical projects, moving beyond basic analytics to explore the broader landscape of data-driven development.
@@ -8,10 +7,10 @@ While working at a startup with limited resources and no dedicated data team, I 
 
 ## 🍓 About Me
 
-- 💻 Self-taught Developer : +3 Years Experience
+- 💻 Self-taught Developer : +2 Years Professional Experience
 - ✨ Where I will shine : LLMs, NLP, AI, RAG, regex
 - 🏫 Background : Marketing, Study Consulting
-- 🏫 Indutosry : e-commerce, Education(Langauge School), Logistics/transportation, Biology
+- 🏫 Indutosry I worked : e-commerce, Education(Langauge), Logistics/Transportation, Biology
 - 🔭 Currently Working On **AI Recipe Generator** (fastAPI, RAG, LLMs...)
 - 🌱 Currently Learning **Kubernetes**
 - 🌱 Currently My Level At [Codewars](https://www.codewars.com/users/yukaberry)
@@ -19,10 +18,9 @@ While working at a startup with limited resources and no dedicated data team, I 
 ![Codewars](https://github.r2v.ch/codewars?user=yukaberry)
 
 
-- ⚡ Fun Fact: I am a travel hack pro ✈️ — I can usually find cheaper train tickets than you would expect.
-- ⚡ Currently Learning: Wild Mushroom 🍄 Edge Guard at Smash Bros 🎮
-- ⚡ When I am not coing...: Yoga, Swimming, Hiking, Camping
-
+- ⚡ Fun Fact : I am a travel hack pro ✈️ — I can usually find cheaper train tickets than you would expect.
+- ⚡ Currently Learning : Wild Mushrooms 🍄
+- ⚡ When I Am Not Coding, I Do : Yoga, Swimming, Hiking, Camping 🦘🐨
 
 
 ## 🛠️ Languages and Tools
