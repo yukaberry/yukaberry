@@ -1,26 +1,29 @@
 # Hi 👋, I am Yuka Kudo 🦘🐨
 
+I am a self-taught developer driven by a passion for learning through building. My journey has been shaped by hands-on projects, online courses, books, and countless hours exploring documentation and tutorials. I believe in learning through doing—whether it is tackling coding challenges, following in-depth tutorials, or diving into technical literature.
+
+While working at a startup with limited resources and no dedicated data team, I was faced with a real-world data analytics challenge. I took the initiative to learn and apply data skills directly in a work setting, which not only helped solve immediate problems but also sparked a deeper interest in Python and data science as a whole. Since then, I have continued to develop my skills through practical projects, moving beyond basic analytics to explore the broader landscape of data-driven development.
+
 ![profile_gif](github_profile.gif)
 
 ## 🍓 About Me
 
 - 💻 Self-taught Developer : +3 Years Experience
-- ✨ What I will shine : LLMs, NLP, AI, RAG
+- ✨ Where I will shine : LLMs, NLP, AI, RAG, regex
 - 🏫 Background : Marketing, Study Consulting
-- 🏫 Indutosry : e-commerce, Education, Logistics/transportation, Biology
-- 🔭 Currently working on **AI Recipe Generator**
-- 🌱 Currently learning **Kubernetes**
-- 🌱 Currently my level at [Codewars](https://www.codewars.com/users/yukaberry)
+- 🏫 Indutosry : e-commerce, Education(Langauge School), Logistics/transportation, Biology
+- 🔭 Currently Working On **AI Recipe Generator** (fastAPI, RAG, LLMs...)
+- 🌱 Currently Learning **Kubernetes**
+- 🌱 Currently My Level At [Codewars](https://www.codewars.com/users/yukaberry)
 
 ![Codewars](https://github.r2v.ch/codewars?user=yukaberry)
 
 
-- ⚡ Fun fact:  I am a travel hack pro — I can usually find cheaper train tickets in Germany than you would expect.
+- ⚡ Fun Fact: I am a travel hack pro ✈️ — I can usually find cheaper train tickets than you would expect.
+- ⚡ Currently Learning: Wild Mushroom 🍄 Edge Guard at Smash Bros 🎮
+- ⚡ When I am not coing...: Yoga, Swimming, Hiking, Camping
 
 
- I am a self-taught developer driven by a passion for learning through building. My journey has been shaped by hands-on projects, online courses, books, and countless hours exploring documentation and tutorials. I believe in learning through doing—whether it is tackling coding challenges, following in-depth tutorials, or diving into technical literature.
-
-While working at a startup with limited resources and no dedicated data team, I was faced with a real-world data analytics challenge. I took the initiative to learn and apply data skills directly in a work setting, which not only helped solve immediate problems but also sparked a deeper interest in Python and data science as a whole. Since then, I have continued to develop my skills through practical projects, moving beyond basic analytics to explore the broader landscape of data-driven development.
 
 ## 🛠️ Languages and Tools
 
