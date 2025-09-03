@@ -11,8 +11,10 @@ While working at a startup with limited resources and no dedicated data team, I 
 - 🌍 **Industries I worked** : E-commerce, Education, Logistics/Transportation, Biology
 - 🔭 **Currently Developing** : **AI Recipe Generator** (fastAPI, RAG, LLMs)
 - 🌱 **Currently Learning** : **Kubernetes**
-- ⚡ **Fun Fact** : I am a travel hack pro ✈️ — I can usually find cheaper train tickets than you would expect.| Wild Mushrooms 🍄 | Yoga, Swimming, Hiking, Camping 🦘🐨
+- ⚡ **Fun Fact** : I am a travel hack pro ✈️ — ask me how to get cheaper tickets!
+                   Wild Mushrooms 🍄 | Yoga, Swimming, Hiking, Camping 🦘🐨
 - 🏆 **Codewars** : **Top <!--CW_PERCENTILE-->1.915%<!--CW_PERCENTILE_END-->**
+
 ![Codewars](https://github.r2v.ch/codewars?user=yukaberry)
 
 
