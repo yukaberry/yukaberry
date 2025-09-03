@@ -12,7 +12,7 @@ While working at a startup with limited resources and no dedicated data team, I 
 - 🔭 **Currently Developing** : **AI Recipe Generator** (fastAPI, RAG, LLMs)
 - 🌱 **Currently Learning** : **Kubernetes**
 - ⚡ **Fun Fact** : I am a travel hack pro ✈️ — ask me how to get cheaper tickets!
-                   Wild Mushrooms 🍄 | Yoga, Swimming, Hiking, Camping 🦘🐨
+                  |  Wild Mushrooms 🍄 | Yoga, Swimming, Hiking, Camping 🦘🐨
 - 🏆 **Codewars** : **Top <!--CW_PERCENTILE-->1.915%<!--CW_PERCENTILE_END-->**
 
 ![Codewars](https://github.r2v.ch/codewars?user=yukaberry)
@@ -23,13 +23,15 @@ While working at a startup with limited resources and no dedicated data team, I 
 ### [Detect AI Contents](https://github.com/yukaberry/detect_ai_content)
 > Detects AI-generated images and text through analysis.
 > 2024
-- Tech used: Tech used: HuggingFace,transformers,tensorflow,docker, fastapi, prefect
+- Impact: Preserves creativity by helping distinguish original human work from AI output — ensuring we don’t lose originality to endless copies of copies.
+- Tech used: HuggingFace,transformers,tensorflow,docker, fastapi, prefect
 - GitHub: [Project Link](https://github.com/yukaberry/detect_ai_content)
 - Demo: [Youtube Link](https://www.youtube.com/watch?v=9o40xnghODU)
 
 ### [AI recipe generator](https://github.com/yukaberry/)
-> AI adjusts the original recipe to fit diets like vegan, gluten-free, or sugar-free — not just by removing ingredients, but **by adding tasty alternatives**.
+> Generates personalized recipes by **adapting dishes to dietary needs** (vegan, gluten-free, low-sugar, etc.). Instead of just removing restricted items, the model **adds tasty alternatives to preserve flavor and balance.**
 > 2025
+- Impact: Makes restrictive diets more enjoyable by creating recipes people actually want to cook and eat.
 - Tech used: HuggingFace,transformers,tensorflow,docker, fastapi, prefect
 - GitHub: [Project Link](https://github.com/yukaberry/)
 - Demo: [App](https://)

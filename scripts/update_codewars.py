@@ -28,6 +28,8 @@ def get_percentile(username: str) -> str:
     html = fetch_html(url)
 
     m = PATTERN.search(html)
+    # print(m)
+    # print(type(m))
     if not m:
         raise RuntimeError("Honor Percentile not found in stats page HTML.")
     return m.group(1).replace(",", ".")
