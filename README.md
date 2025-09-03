@@ -1,25 +1,37 @@
-# Hi 👋, I am Yuka Kudo
-I am a self-taught developer driven by a passion for learning through building. My journey has been shaped by hands-on projects, online courses, books, and countless hours exploring documentation and tutorials. I believe in learning through doing—whether it is tackling coding challenges, following in-depth tutorials, or diving into technical literature.
+# 🍓 About Me
+I am a **self-taught developer** with **2+ years of professional experience** driven by a passion for learning through building. My journey has been shaped by **hands-on projects**, online courses, books, and exploring documentation and tutorials and grew into a career focused on **data science, NLP, and AI** applications.
 
-While working at a startup with limited resources and no dedicated data team, I was faced with a real-world data analytics challenge. I took the initiative to learn and apply data skills directly in a work setting, which not only helped solve immediate problems but also sparked a deeper interest in Python and data science as a whole. Since then, I have continued to develop my skills through practical projects, moving beyond basic analytics to explore the broader landscape of data-driven development.
+While working at a startup with limited resources and no dedicated data team, I was faced with a real-world data analytics challenge. I took the initiative to learn and apply data skills directly in a work setting, which not only helped solve immediate problems but also sparked a deeper interest in Python and data science as a whole. Since then, I have continued to develop my skills through practical projects, moving beyond basic analytics to explore the broader landscape of **LLM-powered** applications and **data-driven** development.
 
-![profile_gif](github_profile.gif)
+<!--[profile_gif](github_profile.gif)-->
 
-## 🍓 About Me
-
-- 💻 Self-taught Developer : +2 Years Professional Experience
-- ✨ Where I will shine : LLMs, NLP, AI, RAG, regex
-- 🏫 Background : Marketing, Study Consulting
-- 🏫 Indutosry I worked : e-commerce, Education(Langauge), Logistics/Transportation, Biology
-- 🔭 Currently Working On **AI Recipe Generator** (fastAPI, RAG, LLMs...)
-- 🌱 Currently Learning **Kubernetes**
-- 🌱 My Current Honor Percentile: **Top <!--CW_PERCENTILE-->1.915%<!--CW_PERCENTILE_END-->** At [Codewars](https://www.codewars.com/users/yukaberry)
+<!-- - 💻 Self-taught Developer : +2 Years Professional Experience-->
+- ✨ **Where I shine** : LLMs, NLP, AI, RAG, regex
+- 🏫 **Background** : Marketing, Study Consulting
+- 🌍 **Industries I worked** : E-commerce, Education, Logistics/Transportation, Biology
+- 🔭 **Currently Developing** : **AI Recipe Generator** (fastAPI, RAG, LLMs)
+- 🌱 **Currently Learning** : **Kubernetes**
+- ⚡ **Fun Fact** : I am a travel hack pro ✈️ — I can usually find cheaper train tickets than you would expect.| Wild Mushrooms 🍄 | Yoga, Swimming, Hiking, Camping 🦘🐨
+- 🏆 **Codewars** : **Top <!--CW_PERCENTILE-->1.915%<!--CW_PERCENTILE_END-->**
 ![Codewars](https://github.r2v.ch/codewars?user=yukaberry)
 
 
-- ⚡ Fun Fact : I am a travel hack pro ✈️ — I can usually find cheaper train tickets than you would expect.
-- ⚡ Currently Learning : Wild Mushrooms 🍄
-- ⚡ When I Am Not Coding, I Do : Yoga, Swimming, Hiking, Camping 🦘🐨
+## 🚀 Projects
+
+### [Detect AI Contents](https://github.com/yukaberry/detect_ai_content)
+> Detects AI-generated images and text through analysis.
+> 2024
+- Tech used: Tech used: HuggingFace,transformers,tensorflow,docker, fastapi, prefect
+- GitHub: [Project Link](https://github.com/yukaberry/detect_ai_content)
+- Demo: [Youtube Link](https://www.youtube.com/watch?v=9o40xnghODU)
+
+### [AI recipe generator](https://github.com/yukaberry/)
+> AI adjusts the original recipe to fit diets like vegan, gluten-free, or sugar-free — not just by removing ingredients, but **by adding tasty alternatives**.
+> 2025
+- Tech used: HuggingFace,transformers,tensorflow,docker, fastapi, prefect
+- GitHub: [Project Link](https://github.com/yukaberry/)
+- Demo: [App](https://)
+
 
 
 ## 🛠️ Languages and Tools
@@ -49,27 +61,11 @@ While working at a startup with limited resources and no dedicated data team, I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="40" height="40"/>
 
-## ⚙️ Stats
+<!--## ⚙️ Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukaberry&layout=compact&theme=tokyonight)
 
-# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukaberry&show_icons=true&theme=tokyonight)
-
-## 🚀 Projects
-
-### [Detect AI Contents](https://github.com/yukaberry/detect_ai_content)
-> Detects AI-generated images and text through analysis.
-> 2024
-- Tech used: Tech used: HuggingFace,transformers,tensorflow,docker, fastapi, prefect
-- GitHub: [Project Link](https://github.com/yukaberry/detect_ai_content)
-- Demo: [Youtube Link](https://www.youtube.com/watch?v=9o40xnghODU)
-
-### [AI recipe generator](https://github.com/yukaberry/)
-> AI adjusts the original recipe to fit diets like vegan, gluten-free, or sugar-free — not just by removing ingredients, but **by adding tasty alternatives**.
-> 2025
-- Tech used: HuggingFace,transformers,tensorflow,docker, fastapi, prefect
-- GitHub: [Project Link](https://github.com/yukaberry/)
-- Demo: [App](https://)
+# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukaberry&show_icons=true&theme=tokyonight)-->
 
 
 ## 📘🏫 Courses I have completed
@@ -82,13 +78,13 @@ While working at a startup with limited resources and no dedicated data team, I 
 - **Online course :Data Science with Python for beginner** : Udemy, SIGNATE – *2020*
 - **Online course : Python** : Progate – *2019*
 
-## 📚 Books I have larned from
+## 📚 Books I have learned from
 
 - Introduction to Machine Learning with Python : O'REIlLY
 - Pythonで学ぶあたらしい統計学の教科書 (Learn Statistics with Python)
 - Pythonによるスクレイピング&機械学習 開発テクニック　(Scraping and ML with Python)
 - キタミ式イラストIT塾 基本情報技術者　(CS Basic)
-- 東京大学のデータサイエンティスト育成講座 ~Pythonで手を動かして学ぶデ―タ分析 (Data Science from Tokyo Univercity)
+- 東京大学のデータサイエンティスト育成講座 ~Pythonで手を動かして学ぶデ―タ分析 (Data Science from Tokyo Uni)
 
 ## 📌 Online resrouces (Python)
 
