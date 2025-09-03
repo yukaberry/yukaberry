@@ -1,0 +1,73 @@
+name: Update Codewars Percentile
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "15 5 * * *" # daily at 05:15 UTC
+  push:
+    paths:
+      - "scripts/update_codewars.py"
+      - ".github/workflows/update-codewars.yml"
+
+# Prevent overlapping runs (e.g., if a manual run overlaps the cron job)
+concurrency:
+  group: update-codewars-percentile
+  cancel-in-progress: false
+
+permissions:
+  contents: write  # needed to commit README changes
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # will push with GITHUB_TOKEN explicitly
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # Optional: show current README markers to help debugging if something goes wrong
+      - name: Verify README markers
+        run: |
+          grep -n "<!--CW_PERCENTILE-->" README.md && echo "Start marker OK" || (echo "Start marker missing" && exit 1)
+          grep -n "<!--CW_PERCENTILE_END-->" README.md && echo "End marker OK" || (echo "End marker missing" && exit 1)
+
+      - name: Update README with latest Codewars percentile
+        run: |
+          set -e
+          python scripts/update_codewars.py
+        env:
+          # If script supports reading from env, set it here:
+          CODEWARS_USERNAME: yukaberry
+          PYTHONUNBUFFERED: "1"
+
+      - name: Commit changes (if any)
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update Codewars Honor Percentile [skip ci]"
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Push
+        if: always()  # attempt push even if previous step decided to commit or not
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Only push if there is a commit ahead
+          AHEAD=$(git rev-list --count HEAD ^origin/${GITHUB_REF_NAME})
+          if [[ "$AHEAD" -gt 0 ]]; then
+            git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${GITHUB_REF_NAME}"
+          else
+            echo "Nothing to push."
+          fi

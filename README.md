@@ -14,7 +14,7 @@ While working at a startup with limited resources and no dedicated data team, I 
 - 🔭 Currently Working On **AI Recipe Generator** (fastAPI, RAG, LLMs...)
 - 🌱 Currently Learning **Kubernetes**
 - 🌱 Currently My Level At [Codewars](https://www.codewars.com/users/yukaberry)
-
+Honor Percentile: **<!--CW_PERCENTILE-->1.915%<!--CW_PERCENTILE_END-->**
 ![Codewars](https://github.r2v.ch/codewars?user=yukaberry)
 
 
